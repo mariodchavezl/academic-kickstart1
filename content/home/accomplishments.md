@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.coursera.org"
   date_start = "2020-04-06"
   date_end = ""
-  description = ""
+  description = """This Specialization consists of the following 10 courses: The Data Scientist's Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products and Data Science Capstone. """
 
 [[item]]
   organization = "Educative.io"
