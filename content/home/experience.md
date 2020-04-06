@@ -30,12 +30,15 @@ date_format = "Jan 2006"
   * Received constructive criticism well and turned it into an opportunity to grow and improve."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Purchasing Quality Engineer Intern"
+  company = "BOSCH"
+  company_url = "https://www.bosch.com.mx/en/"
+  location = "Mexicali, Baja California"
+  date_start = "2017-08-30"
+  date_end = "2018-06-31"
+  description = """
+  * Created monthly scorecards for Bosch's suppliers.
+  * Responsible for supplier's QAA updates, agreement in which suppliers renew their compromise to deliver zero defect products.
+  * Delivered and reviewed supplier's samples."""
 
 +++
