@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.edx.org"
   date_start = "2020-03-14"
   date_end = ""
-  description = ""
+  description = """This track consists of the following 5 courses: Machine Learning for Software Engineers, Image Recognition with Machine Learning, NLP with Machine Learning, Applied ML: Deep Learning for Industry and Applied ML: Industry Case with Tensor Flow."""
   
 [[item]]
   organization = "CodeAcademy"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2020-03-23"
   date_end = ""
-  description = ""
+  description = """This course goes from SQL, Advanced Python, Data Analysis, Data Visualization, to Web Scrapping, Perceptrons and Neural Nets and Natural Language Processing, among others. Additionally Data Visualization, Data Analysis and Machine Learning's Capstone Projects are performed."""
 
 [[item]]
   organization = "Deeplearning.ai"
@@ -56,7 +56,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2020-03-01"
   date_end = ""
-  description = ""
+  description = """This specialization consisted of 5 courses: Neural Networks and Deep Learning, Improving Deep Neural Networks, Structuring Machine Learning Projects, Convolutional Neural Networks and Sequence Models."""
   
  [[item]]
   organization = "John Hopkins University"
@@ -66,7 +66,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2020-04-06"
   date_end = ""
-  description = ""
+  description = """This specialization consisted of 5 courses: Essential Epidemiologic Tools for Public Health Practice, Data and Health Indicators in Public Health Practice, Surveillance Systems: The Building Blocks, Surveillance Systems: Analysis, Dissemination, and Special Systems and Outbreaks and Epidemics."""
   
   [[item]]
   organization = "Udemy"
@@ -76,6 +76,6 @@ date_format = "Jan 2006"
   certificate_url = "https://www.datacamp.com"
   date_start = "2020-04-07"
   date_end = ""
-  description = ""
+  description = """Algorithm Analysis and Big-O Notation, Array Sequences, Stacks Queues and Deques, Linked Lists, Recursion, Trees, Searching and Sorting Algorithms, Graph Algorithms, among others."""
  
 +++
