@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   date_end = "2018-06-31"
   description = """
   * Created monthly scorecards for Bosch's suppliers.
-  * Responsible for supplier's QAA updates, agreement in which suppliers renew their compromise to deliver zero defect products.
+  * Responsible for supplier's QAA(Quality Assurance Agreement) updates.
   * Delivered and reviewed supplier's samples."""
 
 +++
