@@ -52,4 +52,14 @@ date_format = "Jan 2006"
   * Successfully carried out a time-motion study analysis for Coca Cola Company's production floor.
   * Profitably changed time-motion methodologies for our client BOSCH, from MOST to Methods Time Measurement (MTM).
   * Coordinated the Industrial Engineers Intern's Team."""
+  
+  [[experience]]
+  title = "Co-Founder and Manager"
+  company = "Onus Advertising"
+  company_url = "https://www.facebook.com/onusmx"
+  location = "Mexicali, Baja California"
+  date_start = "2015-03-02"
+  date_end = "2016-03-27"
+  description = """Onus was a startup that aimed to support companies by advertising their products and services in an extremely economical way, while offering their market the opportunity of satisfying their mobile device's needs."""
+  
 +++
