@@ -69,6 +69,6 @@ date_format = "Jan 2006"
   location = "Mexicali, Baja California"
   date_start = "2013-08-05"
   date_end = "2014-06-27"
-  description = """URBEM was a clothing, socially responsible company which aim to promote Mexicali's city with original designs and excellent quality shirts."""
+  description = """URBEM was a clothing, socially responsible company which aimed to promote Mexicali's city with original designs and excellent quality shirts."""
   
 +++
