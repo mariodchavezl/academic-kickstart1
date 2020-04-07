@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   * Coordinated the Industrial Engineers Intern's Team."""
   
   [[experience]]
-  title = "Co-Founder and Manager"
+  title = "Co-Founder"
   company = "Onus Advertising"
   company_url = "https://www.facebook.com/onusmx"
   location = "Mexicali, Baja California"
