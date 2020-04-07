@@ -35,7 +35,7 @@ date_format = "Jan 2006"
   company_url = "https://www.bosch.com.mx/en/"
   location = "Mexicali, Baja California"
   date_start = "2017-08-30"
-  date_end = "2018-06-31"
+  date_end = "2018-06-30"
   description = """
   * Created monthly scorecards for Bosch's suppliers.
   * Responsible for supplier's QAA(Quality Assurance Agreement) updates.
