@@ -62,4 +62,13 @@ date_format = "Jan 2006"
   date_end = "2016-03-27"
   description = """Onus was a startup that aimed to support companies by advertising their products and services in an extremely economical way, while offering their market the opportunity of satisfying their mobile device's needs."""
   
+  [[experience]]
+  title = "Co-Founder and General Manager"
+  company = "Urbem Co."
+  company_url = "https://www.facebook.com/urbemco"
+  location = "Mexicali, Baja California"
+  date_start = "2013-08-05"
+  date_end = "2014-06-27"
+  description = """URBEM was a clothing, socially responsible company which aim to promote Mexicali's city with original designs and excellent quality shirts."""
+  
 +++
