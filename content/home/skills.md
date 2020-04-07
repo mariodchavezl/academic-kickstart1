@@ -45,7 +45,7 @@ subtitle = ""
   description = ""
   
   [[feature]]
-  icon = "laptop-house"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Autodidact"
   description = ""
