@@ -32,16 +32,16 @@ subtitle = ""
   name = "Data Analysis"
   description = ""  
   
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = ""
-  
  [[feature]]
   icon = "stopwatch"
   icon_pack = "fas"
   name = "Time Manage"
+  description = ""
+  
+  [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = ""
   
   [[feature]]
