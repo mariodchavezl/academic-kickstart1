@@ -35,7 +35,7 @@ subtitle = ""
  [[feature]]
   icon = "stopwatch"
   icon_pack = "fas"
-  name = "Time Manage"
+  name = "Time Management"
   description = ""
   
   [[feature]]
