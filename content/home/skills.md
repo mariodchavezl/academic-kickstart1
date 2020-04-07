@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "handshake"
+  icon = "people-carry"
   icon_pack = "fas"
-  name = "Leadership and Teamwork"
+  name = "Collaborate"
   description = ""
   
 [[feature]]
@@ -36,6 +36,18 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
+  description = ""
+  
+ [[feature]]
+  icon = "stopwatch"
+  icon_pack = "fas"
+  name = "Time Manage"
+  description = ""
+  
+  [[feature]]
+  icon = "laptop-house"
+  icon_pack = "fas"
+  name = "Autodidact"
   description = ""
 
 +++
