@@ -27,8 +27,8 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "python"
-  icon_pack = "far"
+  icon = "fa-python"
+  icon_pack = "fab"
   name = "Python"
   description = ""
 
